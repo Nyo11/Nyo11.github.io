@@ -3,7 +3,7 @@
 
 body {
 	font-family: 'Indie Flower', cursive !important;
-  background: #FDE3A7; /*CAPE HONEY*/
+  background: #FFFFFF; /*CAPE HONEY*/
 	margin: 0px;
 	padding: 0px;
 }
@@ -88,7 +88,7 @@ h4 {
 }
 
 .card:hover .imgBox {
-	transform: rotateY(-135deg);
+	transform: rotateY(-0deg);
 }
 
 .card:hover .bark {
